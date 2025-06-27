@@ -90,16 +90,3 @@ I’m also well-versed in **CI/CD pipelines** using **GitHub Actions**, **Docker
     <img src="https://github-readme-streak-stats.herokuapp.com?user=newstable&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats" />
   </a>
 </div>
-
----
-
-## 📫 How to reach me
-
-- ✉️ Email: [special.galaxy26@gmail.com](mailto:special.galaxy26@gmail.com)  
-- 💬 Telegram: [@stable1026](https://t.me/stable1026)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</p>
