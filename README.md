@@ -91,15 +91,6 @@ I’m also well-versed in **CI/CD pipelines** using **GitHub Actions**, **Docker
   </a>
 </div>
 
----
-
-## 📫 How to reach me
-
-- ✉️ Email: [special.galaxy26@gmail.com](mailto:special.galaxy26@gmail.com)  
-- 💬 Telegram: [@stable1026](https://t.me/stable1026)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
 </p>
