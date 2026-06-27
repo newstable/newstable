@@ -1,7 +1,7 @@
 ## Hello 👋, I'm a Senior Fullstack Developer!
 
 I'm a passionate full-stack developer specializing in **React.js**, **Node.js**, **MongoDB**, **PostgreSQL**, **MySQL**, **Express.js**, **Python**, **Unity**, **Blockchain**, **AI**, **ML**, and more.  
-With 4+ years of freelancing experience, I have built numerous **casino platforms**, **blockchain dApps**, and innovative web applications in the iGaming industry.  
+With 7+ years of freelancing experience, I have built numerous **casino platforms**, **blockchain dApps**, and innovative web applications in the iGaming industry.  
 
 I’m also well-versed in **CI/CD pipelines** using **GitHub Actions**, **Docker**, and cloud deployment strategies to ensure smooth and reliable delivery.
 
