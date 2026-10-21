@@ -1,16 +1,30 @@
-## Hello 👋, I'm a Senior Fullstack Developer!
+# 👋 Hi, I'm an AI Engineer!
 
-I'm a passionate full-stack developer specializing in **React.js**, **Node.js**, **MongoDB**, **PostgreSQL**, **MySQL**, **Express.js**, **Python**, **Unity**, **Blockchain**, **AI**, **ML**, and more.  
-With 7+ years of freelancing experience, I have built numerous **casino platforms**, **blockchain dApps**, and innovative web applications in the iGaming industry.  
+I'm passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
-I’m also well-versed in **CI/CD pipelines** using **GitHub Actions**, **Docker**, and cloud deployment strategies to ensure smooth and reliable delivery.
+I build AI-powered applications, intelligent automation systems, and scalable web applications using Python, React.js, Node.js, and modern technologies.
 
-## 🚀 About My Work
+With 7+ years of freelancing experience, I've worked on web applications, blockchain dApps, and iGaming platforms. Now, I'm focused on building smarter solutions with AI.
 
-- Developed **highly scalable casino platforms** and **sportsbook applications** with real-time betting features.
-- Built **secure blockchain dApps** leveraging smart contracts for transparent and decentralized gaming experiences.
-- Integrated **AI/ML models** for predictive analytics and personalized user experiences.
-- Designed and implemented **CI/CD pipelines** using GitHub Actions and Docker for automated testing and deployment.
-- Collaborated with cross-functional teams to deliver robust full-stack solutions from concept to production.
+## 🛠️ Tech Stack
 
----
+- **AI & ML:** Python, LLMs, AI Agents, RAG
+- **Frontend:** React.js, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, Python
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Other:** Blockchain, Smart Contracts, Unity
+
+## 🚀 My Interests
+
+- Building AI-powered applications
+- Developing LLM-based tools and AI agents
+- Automating business workflows with AI
+- Creating scalable APIs and backend systems
+- Exploring new AI technologies
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on AI projects and building innovative software.
+
+**Let's build something intelligent together!** 🤖
